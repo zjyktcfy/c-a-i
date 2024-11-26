@@ -22,7 +22,6 @@ jobs:
       #working-directory: iptv/speedtest
       run: |
         cd $GITHUB_WORKSPACE/speedtest
-        chmod +x speed.sh
         bash ./CaijiGuangdianip.sh
     - name: Update Results
       run: |
