@@ -1,33 +1,95 @@
 陕西,#genre#
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
-http://36.46.66.22:4022/rtp/239.111.205.35:5140
+http://36.46.66.66:4022/rtp/239.111.205.35:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
-http://36.46.66.22:4022/rtp/239.111.205.28:5140
+http://36.46.66.66:4022/rtp/239.111.205.28:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
-http://36.46.66.22:4022/rtp/239.111.205.42:5140
+http://36.46.66.66:4022/rtp/239.111.205.42:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
-http://36.46.66.22:4022/rtp/239.111.205.98:5140
+http://36.46.66.66:4022/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
-http://36.46.66.22:4022/rtp/239.111.205.100:5140
+http://36.46.66.66:4022/rtp/239.111.205.100:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
-http://36.46.66.22:4022/rtp/239.111.205.36:5140
+http://36.46.66.66:4022/rtp/239.111.205.36:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
-http://36.46.66.22:4022/rtp/239.111.205.102:5140
+http://36.46.66.66:4022/rtp/239.111.205.102:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
-http://36.46.66.22:4022/rtp/239.111.205.99:5140
+http://36.46.66.66:4022/rtp/239.111.205.99:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
-http://1.83.124.246:8888/rtp/239.111.205.35:5140
+http://36.46.98.162:8010/rtp/239.111.205.35:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
-http://1.83.124.246:8888/rtp/239.111.205.28:5140
+http://36.46.98.162:8010/rtp/239.111.205.28:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
-http://1.83.124.246:8888/rtp/239.111.205.42:5140
+http://36.46.98.162:8010/rtp/239.111.205.42:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
-http://1.83.124.246:8888/rtp/239.111.205.98:5140
+http://36.46.98.162:8010/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
-http://1.83.124.246:8888/rtp/239.111.205.100:5140
+http://36.46.98.162:8010/rtp/239.111.205.100:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
-http://1.83.124.246:8888/rtp/239.111.205.36:5140
+http://36.46.98.162:8010/rtp/239.111.205.36:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
-http://1.83.124.246:8888/rtp/239.111.205.102:5140
+http://36.46.98.162:8010/rtp/239.111.205.102:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
-http://1.83.124.246:8888/rtp/239.111.205.99:5140
+http://36.46.98.162:8010/rtp/239.111.205.99:5140
+辽宁,#genre#
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
+http://175.147.74.181:8888/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
+http://175.147.74.181:8888/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
+http://175.147.74.181:8888/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="央视高清",辽宁体育
+http://175.147.74.181:8888/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁生活.png" group-title="卫视频道",辽宁生活
+http://175.147.74.181:8888/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁教育青少.png" group-title="卫视频道",辽宁教育青少
+http://175.147.74.181:8888/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
+http://175.147.74.181:8888/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
+http://175.147.74.181:8888/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
+http://175.147.74.181:8888/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="央视高清",辽宁北方
+http://175.147.74.181:8888/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁都市.png" group-title="央视高清",辽宁都市
+http://175.147.74.181:8888/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png" group-title="央视高清",辽宁影视剧
+http://175.147.74.181:8888/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="央视高清",辽宁体育
+http://175.147.74.181:8888/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁生活.png" group-title="卫视频道",辽宁生活
+http://175.147.74.181:8888/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁教育青少.png" group-title="卫视频道",辽宁教育青少
+http://175.147.74.181:8888/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁公共.png" group-title="卫视频道",辽宁公共
+http://175.147.74.181:8888/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://www.yangfeiyue.cn/tv/辽宁经济.png" group-title="卫视频道",辽宁经济
+http://175.147.74.181:8888/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
+http://175.147.74.181:8888/rtp/232.0.0.206:1234
+广电,#genre#
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
+http://119.32.12.13:2901/udp/224.1.100.121:11111
+#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
+http://119.32.12.13:2901/udp/224.1.100.123:11111
+#EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://www.yangfeiyue.cn/tv/广州竞赛.png" group-title="卫视高清",广州竞赛
+http://119.32.12.13:2901/udp/224.1.100.105:11111
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
+http://119.32.12.13:2901/udp/224.1.100.126:11111
+#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
+http://119.32.12.13:2901/udp/224.1.100.129:11111
+#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
+http://119.32.12.13:2901/udp/224.1.100.136:11111
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
+http://120.197.18.252:2901/udp/224.1.100.121:11111
+#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
+http://120.197.18.252:2901/udp/224.1.100.123:11111
+#EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://www.yangfeiyue.cn/tv/广州竞赛.png" group-title="卫视高清",广州竞赛
+http://120.197.18.252:2901/udp/224.1.100.105:11111
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
+http://120.197.18.252:2901/udp/224.1.100.126:11111
+#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
+http://120.197.18.252:2901/udp/224.1.100.129:11111
+#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
+http://120.197.18.252:2901/udp/224.1.100.136:11111
