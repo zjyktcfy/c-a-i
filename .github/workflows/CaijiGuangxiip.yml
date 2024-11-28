@@ -1,4 +1,4 @@
-name: CaijiGuangdongip
+name: CaijiGuangxiip
 
 on:
   #schedule:
@@ -22,7 +22,7 @@ jobs:
       #working-directory: iptv/speedtest
       run: |
         cd $GITHUB_WORKSPACE/speedtest
-        bash ./CaijiGuangdongip.sh
+        bash ./CaijiGuangxiip.sh
     - name: Update Results
       run: |
         cd $GITHUB_WORKSPACE/speedtest
