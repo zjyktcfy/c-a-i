@@ -27,7 +27,7 @@ http://ipipip/rtp/239.81.0.141:4056
 #EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="卫视高清",南宁文旅生活
 http://ipipip/rtp/239.81.0.139:4056
 #EXTINF:-1 tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" tvg-logo="https://live.fanmingming.com/tv/柳州新闻综合.png" group-title="卫视高清",柳州新闻综合
-http://ipipip/239.81.0.175:4056
+http://ipipip/rtp/239.81.0.175:4056
 #EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合" tvg-logo="https://live.fanmingming.com/tv/来宾综合.png" group-title="卫视高清",来宾综合
 http://ipipip/rtp/239.81.0.173:4056
 #EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://live.fanmingming.com/tv/贺州综合.png" group-title="卫视高清",贺州综合
