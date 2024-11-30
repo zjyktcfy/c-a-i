@@ -22,8 +22,6 @@ http://110.89.9.146:4022/rtp/239.61.5.99:1025
 http://110.89.9.146:4022/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="龙岩综合" tvg-name="龙岩综合" tvg-logo="https://www.yangfeiyue.cn/tv/龙岩综合.png" group-title="卫视高清",龙岩综合
 http://110.89.9.146:4022/rtp/239.61.5.95:1025
-#EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" tvg-logo="https://www.yangfeiyue.cn/tv/宁德新闻.png" group-title="卫视高清",宁德新闻
-http://110.89.9.146:4022/rtp/239.61.5.96:1025
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
 http://110.89.9.146:4022/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/福建电视剧.png" group-title="卫视高清",福建电视剧
@@ -50,7 +48,5 @@ http://110.85.29.113:4022/rtp/239.61.5.99:1025
 http://110.85.29.113:4022/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="龙岩综合" tvg-name="龙岩综合" tvg-logo="https://www.yangfeiyue.cn/tv/龙岩综合.png" group-title="卫视高清",龙岩综合
 http://110.85.29.113:4022/rtp/239.61.5.95:1025
-#EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" tvg-logo="https://www.yangfeiyue.cn/tv/宁德新闻.png" group-title="卫视高清",宁德新闻
-http://110.85.29.113:4022/rtp/239.61.5.96:1025
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
 http://110.85.29.113:4022/rtp/239.61.5.45:1025
