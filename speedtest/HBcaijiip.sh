@@ -38,7 +38,7 @@ case $city_choice in
         channel_key="陕西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shaanxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fu/refs/heads/main/Shaanxi_dianxin.txt"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Shaanxi_dianxin.txt"$url_fofa
         ;;
     2)
         city="Liaoning_liantong"
@@ -46,7 +46,7 @@ case $city_choice in
         channel_key="辽宁"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Liaoning" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/ji/refs/heads/main/Liaoning_liantong.txt"$url_fofa
+        url_fofa="https://ji.yangfeiyue.us.kg/Liaoning_liantong.txt"$url_fofa
         ;;
     3)
         city="Guangdian"
@@ -54,7 +54,7 @@ case $city_choice in
         channel_key="广电"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && city="Guangdian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/fa/refs/heads/main/Guangdian.txt"$url_fofa
+        url_fofa="https://fa.yangfeiyue.us.kg/Guangdian.txt"$url_fofa
         ;;
     4)
         city="Guangxi_dianxin"
@@ -62,7 +62,7 @@ case $city_choice in
         channel_key="广西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Guangxi Zhuangzu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/ji/refs/heads/main/Guangxi_dianxin.txt"$url_fofa
+        url_fofa="https://ji.yangfeiyue.us.kg/Guangxi_dianxin.txt"$url_fofa
         ;;
     5)
         city="Fujian_dianxin"
@@ -70,7 +70,7 @@ case $city_choice in
         channel_key="福建"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Fujian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://raw.githubusercontent.com/zjykfy/ji/refs/heads/main/Fujian_dianxin.txt"$url_fofa
+        url_fofa="https://ji.yangfeiyue.us.kg/Fujian_dianxin.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
