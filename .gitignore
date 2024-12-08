@@ -3,7 +3,6 @@
 *.txt
 *.md
 *.m3u
-speedtest/
 test/
 tv/
 __pycache__/
@@ -22,7 +21,6 @@ __pycache__/
 *.txt
 *.md
 *.m3u
-speedtest/
 test/
 tv/
 __pycache__/
@@ -40,7 +38,6 @@ __pycache__/
 *.txt
 *.md
 *.m3u
-speedtest/
 test/
 tv/
 __pycache__/
@@ -53,7 +50,6 @@ __pycache__/
 *.txt
 *.md
 *.m3u
-speedtest/
 test/
 tv/
 __pycache__/
@@ -70,7 +66,6 @@ Thumbs.db
 *.txt
 *.md
 *.m3u
-speedtest/
 test/
 tv/
 __pycache__/
