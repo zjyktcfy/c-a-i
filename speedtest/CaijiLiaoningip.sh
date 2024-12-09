@@ -33,7 +33,7 @@ case $city_choice in
         stream="rtp/232.0.0.25:1234"
         channel_key="辽宁"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Liaoning" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJMaWFvbmluZyIgJiYgb3JnPSJDSElOQSBVTklDT00gQ2hpbmExNjkgQmFja2JvbmUiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
         url_fofa="https://ji.yangfeiyue.us.kg/Liaoning_liantong.txt"$url_fofa
         ;;
     0)

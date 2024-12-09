@@ -33,7 +33,7 @@ case $city_choice in
         stream="rtp/239.111.205.35:5140"
         channel_key="陕西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shaanxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFhbnhpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
         url_fofa="https://ji.yangfeiyue.us.kg/Shaanxi_dianxin.txt"$url_fofa
         ;;
     0)

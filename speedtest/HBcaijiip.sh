@@ -37,7 +37,7 @@ case $city_choice in
         stream="rtp/239.111.205.35:5140"
         channel_key="陕西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shaanxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFhbnhpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
         url_fofa="https://fu.yangfeiyue.us.kg/Shaanxi_dianxin.txt"$url_fofa
         ;;
     2)
@@ -45,7 +45,7 @@ case $city_choice in
         stream="rtp/232.0.0.25:1234"
         channel_key="辽宁"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Liaoning" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJMaWFvbmluZyIgJiYgb3JnPSJDSElOQSBVTklDT00gQ2hpbmExNjkgQmFja2JvbmUiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
         url_fofa="https://ji.yangfeiyue.us.kg/Liaoning_liantong.txt"$url_fofa
         ;;
     3)
@@ -61,7 +61,7 @@ case $city_choice in
         stream="rtp/239.81.0.250:4056"
         channel_key="广西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Guangxi Zhuangzu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJHdWFuZ3hpIFpodWFuZ3p1IiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
         url_fofa="https://ji.yangfeiyue.us.kg/Guangxi_dianxin.txt"$url_fofa
         ;;
     5)
@@ -69,7 +69,7 @@ case $city_choice in
         stream="rtp/239.61.5.99:1025"
         channel_key="福建"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Fujian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJGdWppYW4iICYmIG9yZz0iQ2hpbmFuZXQiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
         url_fofa="https://ji.yangfeiyue.us.kg/Fujian_dianxin.txt"$url_fofa
         ;;
     0)

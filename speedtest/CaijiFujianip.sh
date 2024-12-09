@@ -33,7 +33,7 @@ case $city_choice in
         stream="rtp/239.61.5.99:1025"
         channel_key="福建"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Fujian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJGdWppYW4iICYmIG9yZz0iQ2hpbmFuZXQiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
         url_fofa="https://ji.yangfeiyue.us.kg/Fujian_dianxin.txt"$url_fofa
         ;;
     0)
