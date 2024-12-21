@@ -13,12 +13,7 @@ i=0
 
 if [ $# -eq 0 ]; then
   echo "请选择城市："
-  echo "1. 陕西（Shaanxi_dianxin）"
-  echo "2. 辽宁（Liaoning_liantong）"
-  echo "3. 广电（Guangdian）"
-  echo "4. 广西（Guangxi_dianxin）"
-  echo "5. 福建（Fujian_dianxin）"
-  echo "6. 山西（Shanxi_liantong）"
+  echo "1. 山西（Shanxi_liantong）"
   echo "0. 全部"
   read -t 10 -p "输入选择或在10秒内无输入将默认选择全部: " city_choice
 
@@ -34,46 +29,6 @@ fi
 # 根据用户选择设置城市和相应的stream
 case $city_choice in
     1)
-        city="Shaanxi_dianxin"
-        stream="rtp/239.111.205.35:5140"
-        channel_key="陕西"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shaanxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFhbnhpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://fu.yangfeiyue.us.kg/Shaanxi_dianxin.txt"$url_fofa
-        ;;
-    2)
-        city="Liaoning_liantong"
-        stream="rtp/232.0.0.25:1234"
-        channel_key="辽宁"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Liaoning" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJMaWFvbmluZyIgJiYgb3JnPSJDSElOQSBVTklDT00gQ2hpbmExNjkgQmFja2JvbmUiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.us.kg/Liaoning_liantong.txt"$url_fofa
-        ;;
-    3)
-        city="Guangdian"
-        stream="udp/224.1.100.121:11111"
-        channel_key="广电"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && city="Guangdian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://fa.yangfeiyue.us.kg/Guangdian.txt"$url_fofa
-        ;;
-    4)
-        city="Guangxi_dianxin"
-        stream="rtp/239.81.0.250:4056"
-        channel_key="广西"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Guangxi Zhuangzu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJHdWFuZ3hpIFpodWFuZ3p1IiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.us.kg/Guangxi_dianxin.txt"$url_fofa
-        ;;
-    5)
-        city="Fujian_dianxin"
-        stream="rtp/239.61.5.99:1025"
-        channel_key="福建"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Fujian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJGdWppYW4iICYmIG9yZz0iQ2hpbmFuZXQiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.us.kg/Fujian_dianxin.txt"$url_fofa
-        ;;
-    6)
         city="Shanxi_liantong"
         stream="rtp/226.0.1.82:2004"
         channel_key="山西"
@@ -83,7 +38,7 @@ case $city_choice in
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
-        for option in {1..20}; do
+        for option in {1..15}; do
           bash  "$0" $option  # 假定fofa.sh是当前脚本的文件名，$option将递归调用
         done
         exit 0
@@ -167,17 +122,8 @@ rm -rf tmp1.txt tmp2.txt
 
 #--------------------合并所有城市的txt文件为:   zubo.txt-----------------------------------------
 
-echo "陕西,#genre#" >zubo.txt
-cat txt/Shaanxi_dianxin.txt >>zubo.txt
-echo "辽宁,#genre#" >>zubo.txt
-cat txt/Liaoning_liantong.txt >>zubo.txt
-echo "广电,#genre#" >>zubo.txt
-cat txt/Guangdian.txt >>zubo.txt
-echo "广西,#genre#" >>zubo.txt
-cat txt/Guangxi_dianxin.txt >>zubo.txt
-echo "福建,#genre#" >>zubo.txt
-cat txt/Fujian_dianxin.txt >>zubo.txt
-echo "山西,#genre#" >>zubo.txt
+echo "山西,#genre#" >zubo.txt
 cat txt/Shanxi_liantong.txt >>zubo.txt
+
 
 for a in result/*.txt; do echo "";echo "========================= $(basename "$a") ==================================="; cat $a; done
