@@ -20,6 +20,8 @@ http://ipipip/rtp/239.61.4.9:1025
 http://ipipip/rtp/239.61.5.99:1025
 #EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/泉州新闻.png" group-title="卫视高清",泉州新闻
 http://ipipip/rtp/239.61.5.98:1025
+#EXTINF:-1 tvg-id="平潭" tvg-name="平潭" tvg-logo="https://www.yangfeiyue.cn/tv/平潭.png" group-title="卫视高清",平潭
+http://ipipip/rtp/239.61.5.117:1025
 #EXTINF:-1 tvg-id="龙岩综合" tvg-name="龙岩综合" tvg-logo="https://www.yangfeiyue.cn/tv/龙岩综合.png" group-title="卫视高清",龙岩综合
 http://ipipip/rtp/239.61.5.95:1025
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
