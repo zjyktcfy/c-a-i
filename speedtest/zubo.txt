@@ -1,109 +1,57 @@
-陕西,#genre#
-#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
-http://36.46.67.214:4022/rtp/239.111.205.35:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
-http://36.46.67.214:4022/rtp/239.111.205.28:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
-http://36.46.67.214:4022/rtp/239.111.205.42:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
-http://36.46.67.214:4022/rtp/239.111.205.98:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
-http://36.46.67.214:4022/rtp/239.111.205.100:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
-http://36.46.67.214:4022/rtp/239.111.205.36:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
-http://36.46.67.214:4022/rtp/239.111.205.102:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
-http://36.46.67.214:4022/rtp/239.111.205.99:5140
-#EXTINF:-1 tvg-id="1" tvg-name="宝鸡综合" tvg-logo="https://www.yangfeiyue.cn/tv/宝鸡综合.png" group-title="卫视高清",宝鸡综合
-http://36.46.67.214:4022/rtp/239.112.205.143:5140
-#EXTINF:-1 tvg-id="1" tvg-name="宝鸡公共" tvg-logo="https://www.yangfeiyue.cn/tv/宝鸡公共.png" group-title="卫视高清",宝鸡公共
-http://36.46.67.214:4022/rtp/239.112.205.148:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西扶风" tvg-logo="https://www.yangfeiyue.cn/tv/陕西扶风.png" group-title="卫视高清",陕西扶风
-http://36.46.67.214:4022/rtp/239.111.205.80:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西凤翔" tvg-logo="https://www.yangfeiyue.cn/tv/陕西凤翔.png" group-title="卫视高清",陕西凤翔
-http://36.46.67.214:4022/rtp/239.111.205.244:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西陈仓" tvg-logo="https://www.yangfeiyue.cn/tv/陕西陈仓.png" group-title="卫视高清",陕西陈仓
-http://36.46.67.214:4022/rtp/239.111.205.245:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西城固" tvg-logo="https://www.yangfeiyue.cn/tv/陕西城固.png" group-title="卫视高清",陕西城固
-http://36.46.67.214:4022/rtp/239.111.205.79:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西淳化" tvg-logo="https://www.yangfeiyue.cn/tv/陕西淳化.png" group-title="卫视高清",陕西淳化
-http://36.46.67.214:4022/rtp/239.111.205.97:5140
-#EXTINF:-1 tvg-id="1" tvg-name="佛坪综合" tvg-logo="https://www.yangfeiyue.cn/tv/佛坪综合.png" group-title="卫视高清",佛坪综合
-http://36.46.67.214:4022/rtp/239.112.205.229:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西合阳" tvg-logo="https://www.yangfeiyue.cn/tv/陕西合阳.png" group-title="卫视高清",陕西合阳
-http://36.46.67.214:4022/rtp/239.112.205.190:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西岚皋" tvg-logo="https://www.yangfeiyue.cn/tv/陕西岚皋.png" group-title="卫视高清",陕西岚皋
-http://36.46.67.214:4022/rtp/239.111.205.248:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西麟游" tvg-logo="https://www.yangfeiyue.cn/tv/陕西麟游.png" group-title="卫视高清",陕西麟游
-http://36.46.67.214:4022/rtp/239.111.205.31:5140
-#EXTINF:-1 tvg-id="1" tvg-name="眉县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/眉县新闻综合.png" group-title="卫视高清",眉县新闻综合
-http://36.46.67.214:4022/rtp/239.111.205.81:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西千阳" tvg-logo="https://www.yangfeiyue.cn/tv/陕西千阳.png" group-title="卫视高清",陕西千阳
-http://36.46.67.214:4022/rtp/239.111.205.250:5140
-#EXTINF:-1 tvg-id="1" tvg-name="商洛综合" tvg-logo="https://www.yangfeiyue.cn/tv/商洛综合.png" group-title="卫视高清",商洛综合
-http://36.46.67.214:4022/rtp/239.112.205.189:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西太白" tvg-logo="https://www.yangfeiyue.cn/tv/陕西太白.png" group-title="卫视高清",陕西太白
-http://36.46.67.214:4022/rtp/239.111.205.251:5140
-#EXTINF:-1 tvg-id="1" tvg-name="渭南新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/渭南新闻综合.png" group-title="卫视高清",渭南新闻综合
-http://36.46.67.214:4022/rtp/239.111.205.19:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西洋县" tvg-logo="https://www.yangfeiyue.cn/tv/陕西洋县.png" group-title="卫视高清",陕西洋县
-http://36.46.67.214:4022/rtp/239.111.205.77:5140
-#EXTINF:-1 tvg-id="1" tvg-name="榆林综合" tvg-logo="https://www.yangfeiyue.cn/tv/榆林综合.png" group-title="卫视高清",榆林综合
-http://36.46.67.214:4022/rtp/239.110.205.42:9882
-#EXTINF:-1 tvg-id="1" tvg-name="紫阳综合" tvg-logo="https://www.yangfeiyue.cn/tv/紫阳综合.png" group-title="卫视高清",紫阳综合
-http://36.46.67.214:4022/rtp/239.112.205.220:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
-http://36.46.67.252:4022/rtp/239.111.205.35:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
-http://36.46.67.252:4022/rtp/239.111.205.28:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
-http://36.46.67.252:4022/rtp/239.111.205.42:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
-http://36.46.67.252:4022/rtp/239.111.205.98:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
-http://36.46.67.252:4022/rtp/239.111.205.100:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
-http://36.46.67.252:4022/rtp/239.111.205.36:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
-http://36.46.67.252:4022/rtp/239.111.205.102:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
-http://36.46.67.252:4022/rtp/239.111.205.99:5140
-#EXTINF:-1 tvg-id="1" tvg-name="宝鸡综合" tvg-logo="https://www.yangfeiyue.cn/tv/宝鸡综合.png" group-title="卫视高清",宝鸡综合
-http://36.46.67.252:4022/rtp/239.112.205.143:5140
-#EXTINF:-1 tvg-id="1" tvg-name="宝鸡公共" tvg-logo="https://www.yangfeiyue.cn/tv/宝鸡公共.png" group-title="卫视高清",宝鸡公共
-http://36.46.67.252:4022/rtp/239.112.205.148:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西扶风" tvg-logo="https://www.yangfeiyue.cn/tv/陕西扶风.png" group-title="卫视高清",陕西扶风
-http://36.46.67.252:4022/rtp/239.111.205.80:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西凤翔" tvg-logo="https://www.yangfeiyue.cn/tv/陕西凤翔.png" group-title="卫视高清",陕西凤翔
-http://36.46.67.252:4022/rtp/239.111.205.244:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西陈仓" tvg-logo="https://www.yangfeiyue.cn/tv/陕西陈仓.png" group-title="卫视高清",陕西陈仓
-http://36.46.67.252:4022/rtp/239.111.205.245:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西城固" tvg-logo="https://www.yangfeiyue.cn/tv/陕西城固.png" group-title="卫视高清",陕西城固
-http://36.46.67.252:4022/rtp/239.111.205.79:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西淳化" tvg-logo="https://www.yangfeiyue.cn/tv/陕西淳化.png" group-title="卫视高清",陕西淳化
-http://36.46.67.252:4022/rtp/239.111.205.97:5140
-#EXTINF:-1 tvg-id="1" tvg-name="佛坪综合" tvg-logo="https://www.yangfeiyue.cn/tv/佛坪综合.png" group-title="卫视高清",佛坪综合
-http://36.46.67.252:4022/rtp/239.112.205.229:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西合阳" tvg-logo="https://www.yangfeiyue.cn/tv/陕西合阳.png" group-title="卫视高清",陕西合阳
-http://36.46.67.252:4022/rtp/239.112.205.190:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西岚皋" tvg-logo="https://www.yangfeiyue.cn/tv/陕西岚皋.png" group-title="卫视高清",陕西岚皋
-http://36.46.67.252:4022/rtp/239.111.205.248:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西麟游" tvg-logo="https://www.yangfeiyue.cn/tv/陕西麟游.png" group-title="卫视高清",陕西麟游
-http://36.46.67.252:4022/rtp/239.111.205.31:5140
-#EXTINF:-1 tvg-id="1" tvg-name="眉县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/眉县新闻综合.png" group-title="卫视高清",眉县新闻综合
-http://36.46.67.252:4022/rtp/239.111.205.81:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西千阳" tvg-logo="https://www.yangfeiyue.cn/tv/陕西千阳.png" group-title="卫视高清",陕西千阳
-http://36.46.67.252:4022/rtp/239.111.205.250:5140
-#EXTINF:-1 tvg-id="1" tvg-name="商洛综合" tvg-logo="https://www.yangfeiyue.cn/tv/商洛综合.png" group-title="卫视高清",商洛综合
-http://36.46.67.252:4022/rtp/239.112.205.189:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西太白" tvg-logo="https://www.yangfeiyue.cn/tv/陕西太白.png" group-title="卫视高清",陕西太白
-http://36.46.67.252:4022/rtp/239.111.205.251:5140
-#EXTINF:-1 tvg-id="1" tvg-name="渭南新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/渭南新闻综合.png" group-title="卫视高清",渭南新闻综合
-http://36.46.67.252:4022/rtp/239.111.205.19:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西洋县" tvg-logo="https://www.yangfeiyue.cn/tv/陕西洋县.png" group-title="卫视高清",陕西洋县
-http://36.46.67.252:4022/rtp/239.111.205.77:5140
-#EXTINF:-1 tvg-id="1" tvg-name="榆林综合" tvg-logo="https://www.yangfeiyue.cn/tv/榆林综合.png" group-title="卫视高清",榆林综合
-http://36.46.67.252:4022/rtp/239.110.205.42:9882
-#EXTINF:-1 tvg-id="1" tvg-name="紫阳综合" tvg-logo="https://www.yangfeiyue.cn/tv/紫阳综合.png" group-title="卫视高清",紫阳综合
-http://36.46.67.252:4022/rtp/239.112.205.220:5140
+福建,#genre#
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/福建电视剧.png" group-title="卫视高清",福建电视剧
+http:///rtp/239.61.4.5:1025
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://www.yangfeiyue.cn/tv/福建新闻.png" group-title="卫视高清",福建新闻
+http:///rtp/239.61.4.4:1025
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://www.yangfeiyue.cn/tv/福建综合.png" group-title="卫视高清",福建综合
+http:///rtp/239.61.5.167:1025
+#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://www.yangfeiyue.cn/tv/福建公共.png" group-title="卫视高清",福建公共
+http:///rtp/239.61.4.3:1025
+#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://www.yangfeiyue.cn/tv/福建教育.png" group-title="卫视高清",福建教育
+http:///rtp/239.61.5.60:1025
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="卫视高清",福建旅游
+http:///rtp/239.61.4.6:1025
+#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="卫视高清",福建经济
+http:///rtp/239.61.4.7:1025
+#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="卫视高清",福建文体
+http:///rtp/239.61.5.44:1025
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="卫视高清",福建少儿
+http:///rtp/239.61.4.9:1025
+#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="https://www.yangfeiyue.cn/tv/厦门一套.png" group-title="卫视高清",厦门一套
+http:///rtp/239.61.5.99:1025
+#EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/泉州新闻.png" group-title="卫视高清",泉州新闻
+http:///rtp/239.61.5.98:1025
+#EXTINF:-1 tvg-id="平潭" tvg-name="平潭" tvg-logo="https://www.yangfeiyue.cn/tv/平潭.png" group-title="卫视高清",平潭
+http:///rtp/239.61.5.117:1025
+#EXTINF:-1 tvg-id="龙岩综合" tvg-name="龙岩综合" tvg-logo="https://www.yangfeiyue.cn/tv/龙岩综合.png" group-title="卫视高清",龙岩综合
+http:///rtp/239.61.5.95:1025
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
+http:///rtp/239.61.5.45:1025
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/福建电视剧.png" group-title="卫视高清",福建电视剧
+http:///rtp/239.61.4.5:1025
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://www.yangfeiyue.cn/tv/福建新闻.png" group-title="卫视高清",福建新闻
+http:///rtp/239.61.4.4:1025
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://www.yangfeiyue.cn/tv/福建综合.png" group-title="卫视高清",福建综合
+http:///rtp/239.61.5.167:1025
+#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://www.yangfeiyue.cn/tv/福建公共.png" group-title="卫视高清",福建公共
+http:///rtp/239.61.4.3:1025
+#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://www.yangfeiyue.cn/tv/福建教育.png" group-title="卫视高清",福建教育
+http:///rtp/239.61.5.60:1025
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="卫视高清",福建旅游
+http:///rtp/239.61.4.6:1025
+#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="卫视高清",福建经济
+http:///rtp/239.61.4.7:1025
+#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="卫视高清",福建文体
+http:///rtp/239.61.5.44:1025
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="卫视高清",福建少儿
+http:///rtp/239.61.4.9:1025
+#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="https://www.yangfeiyue.cn/tv/厦门一套.png" group-title="卫视高清",厦门一套
+http:///rtp/239.61.5.99:1025
+#EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/泉州新闻.png" group-title="卫视高清",泉州新闻
+http:///rtp/239.61.5.98:1025
+#EXTINF:-1 tvg-id="平潭" tvg-name="平潭" tvg-logo="https://www.yangfeiyue.cn/tv/平潭.png" group-title="卫视高清",平潭
+http:///rtp/239.61.5.117:1025
+#EXTINF:-1 tvg-id="龙岩综合" tvg-name="龙岩综合" tvg-logo="https://www.yangfeiyue.cn/tv/龙岩综合.png" group-title="卫视高清",龙岩综合
+http:///rtp/239.61.5.95:1025
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
+http:///rtp/239.61.5.45:1025
