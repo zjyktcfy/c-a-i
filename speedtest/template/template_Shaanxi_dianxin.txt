@@ -1,19 +1,17 @@
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
 http://ipipip/rtp/239.111.205.35:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西一套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西一套.png" group-title="卫视高清",陕西一套
+#EXTINF:-1 tvg-id="1" tvg-name="陕西新闻资讯" tvg-logo="https://www.yangfeiyue.cn/tv/陕西新闻资讯.png" group-title="卫视高清",陕西新闻资讯
 http://ipipip/rtp/239.111.205.28:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西二套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西二套.png" group-title="卫视高清",陕西二套
+#EXTINF:-1 tvg-id="1" tvg-name="陕西都市青春" tvg-logo="https://www.yangfeiyue.cn/tv/陕西都市青春.png" group-title="卫视高清",陕西都市青春
 http://ipipip/rtp/239.111.205.42:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西三套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西三套.png" group-title="卫视高清",陕西三套
-http://ipipip/rtp/239.111.205.98:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西五套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西五套.png" group-title="卫视高清",陕西五套
-http://ipipip/rtp/239.111.205.100:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西七套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西七套.png" group-title="卫视高清",陕西七套
+#EXTINF:-1 tvg-id="1" tvg-name="陕西体育休闲" tvg-logo="https://www.yangfeiyue.cn/tv/陕西体育休闲.png" group-title="卫视高清",陕西体育休闲
 http://ipipip/rtp/239.111.205.36:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://www.yangfeiyue.cn/tv/陕西八套.png" group-title="卫视高清",陕西八套
 http://ipipip/rtp/239.111.205.102:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西影视" tvg-logo="https://www.yangfeiyue.cn/tv/陕西影视.png" group-title="卫视高清",陕西影视
-http://ipipip/rtp/239.111.205.99:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西银领" tvg-logo="https://www.yangfeiyue.cn/tv/陕西银领.png" group-title="卫视高清",陕西银领
+http://ipipip/rtp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西秦腔" tvg-logo="https://www.yangfeiyue.cn/tv/陕西秦腔.png" group-title="卫视高清",陕西秦腔
+http://ipipip/rtp/239.111.205.100:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宝鸡综合" tvg-logo="https://www.yangfeiyue.cn/tv/宝鸡综合.png" group-title="卫视高清",宝鸡综合
 http://ipipip/rtp/239.112.205.143:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宝鸡公共" tvg-logo="https://www.yangfeiyue.cn/tv/宝鸡公共.png" group-title="卫视高清",宝鸡公共
