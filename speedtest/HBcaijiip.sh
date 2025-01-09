@@ -19,6 +19,9 @@ if [ $# -eq 0 ]; then
   echo "4. 广西（Guangxi_dianxin）"
   echo "5. 福建（Fujian_dianxin）"
   echo "6. 山西（Shanxi_liantong）"
+  echo "7. 四川（Sichuan_dianxin）"
+  echo "8. 四川（Sichuan_yidong）"
+  echo "9. 江西（Jiangxi_dianxin）"
   echo "0. 全部"
   read -t 10 -p "输入选择或在10秒内无输入将默认选择全部: " city_choice
 
@@ -80,6 +83,30 @@ case $city_choice in
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shanxi" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFueGkiICYmIG9yZz0iQ0hJTkEgVU5JQ09NIENoaW5hMTY5IEJhY2tib25lIiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
         url_fofa="https://fu.yangfeiyue.us.kg/Shanxi_liantong.txt"$url_fofa
+        ;;
+    7)
+        city="Sichuan_dianxin"
+        stream="rtp/239.93.0.252:5140"
+        channel_key="四川"
+#        url_fofa=$(echo  '"udpxy" && country="CN" && city="Chengdu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgY2l0eT0iQ2hlbmdkdSIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi&page_size=20"$url_fofa
+        url_fofa="https://fu.yangfeiyue.us.kg/Sichuan_dianxin.txt"$url_fofa
+        ;;
+    8)
+        city="Sichuan_yidong"
+        stream="rtp/239.11.0.151:5140"
+        channel_key="四川"
+#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Sichuan" && org="China Mobile Communications Group Co., Ltd." && protocol="http"' | base64 |tr -d '\n')
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaWNodWFuIiAmJiBvcmc9IkNoaW5hIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBHcm91cCBDby4sIEx0ZC4iICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/Sichuan_yidong.txt"$url_fofa
+        ;;
+    9)
+        city="Jiangxi_dianxin"
+        stream="rtp/239.252.220.242:5140"
+        channel_key="江西"
+#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Jiangxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
+#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJKaWFuZ3hpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
+        url_fofa="https://li.yangfeiyue.us.kg/Jiangxi_dianxin.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
@@ -179,5 +206,11 @@ echo "福建,#genre#" >>zubo.txt
 cat txt/Fujian_dianxin.txt >>zubo.txt
 echo "山西,#genre#" >>zubo.txt
 cat txt/Shanxi_liantong.txt >>zubo.txt
+echo "四川,#genre#" >>zubo.txt
+cat txt/Sichuan_dianxin.txt >>zubo.txt
+echo "四川,#genre#" >>zubo.txt
+cat txt/Sichuan_yidong.txt >>zubo.txt
+echo "江西,#genre#" >>zubo.txt
+cat txt/Jiangxi_dianxin.txt >>zubo.txt
 
 for a in result/*.txt; do echo "";echo "========================= $(basename "$a") ==================================="; cat $a; done
