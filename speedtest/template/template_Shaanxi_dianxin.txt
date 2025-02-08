@@ -50,8 +50,6 @@ http://ipipip/rtp/239.111.205.77:5140
 http://ipipip/rtp/239.110.205.42:9882
 #EXTINF:-1 tvg-id="1" tvg-name="紫阳综合" tvg-logo="https://www.yangfeiyue.cn/tv/紫阳综合.png" group-title="卫视高清",紫阳综合
 http://ipipip/rtp/239.112.205.220:5140
-#EXTINF:-1 tvg-id="1" tvg-name="安康综合" tvg-logo="https://www.yangfeiyue.cn/tv/安康综合.png" group-title="卫视高清",安康综合
-http://ipipip/rtp/239.112.205.216:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西陇县" tvg-logo="https://www.yangfeiyue.cn/tv/陕西陇县.png" group-title="卫视高清",陕西陇县
 http://ipipip/rtp/239.111.205.252:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宁强综合" tvg-logo="https://www.yangfeiyue.cn/tv/宁强综合.png" group-title="卫视高清",宁强综合
