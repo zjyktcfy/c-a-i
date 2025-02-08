@@ -1,29 +1,29 @@
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/福建电视剧.png" group-title="卫视高清",福建电视剧
-http://110.89.11.185:4022/rtp/239.61.4.5:1025
+http://27.151.179.74:4022/rtp/239.61.4.5:1025
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://www.yangfeiyue.cn/tv/福建新闻.png" group-title="卫视高清",福建新闻
-http://110.89.11.185:4022/rtp/239.61.4.4:1025
+http://27.151.179.74:4022/rtp/239.61.4.4:1025
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://www.yangfeiyue.cn/tv/福建综合.png" group-title="卫视高清",福建综合
-http://110.89.11.185:4022/rtp/239.61.5.167:1025
+http://27.151.179.74:4022/rtp/239.61.5.167:1025
 #EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://www.yangfeiyue.cn/tv/福建公共.png" group-title="卫视高清",福建公共
-http://110.89.11.185:4022/rtp/239.61.4.3:1025
+http://27.151.179.74:4022/rtp/239.61.4.3:1025
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://www.yangfeiyue.cn/tv/福建教育.png" group-title="卫视高清",福建教育
-http://110.89.11.185:4022/rtp/239.61.5.60:1025
+http://27.151.179.74:4022/rtp/239.61.5.60:1025
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="卫视高清",福建旅游
-http://110.89.11.185:4022/rtp/239.61.4.6:1025
+http://27.151.179.74:4022/rtp/239.61.4.6:1025
 #EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="卫视高清",福建经济
-http://110.89.11.185:4022/rtp/239.61.4.7:1025
+http://27.151.179.74:4022/rtp/239.61.4.7:1025
 #EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="卫视高清",福建文体
-http://110.89.11.185:4022/rtp/239.61.5.44:1025
+http://27.151.179.74:4022/rtp/239.61.5.44:1025
 #EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="卫视高清",福建少儿
-http://110.89.11.185:4022/rtp/239.61.4.9:1025
+http://27.151.179.74:4022/rtp/239.61.4.9:1025
 #EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="https://www.yangfeiyue.cn/tv/厦门一套.png" group-title="卫视高清",厦门一套
-http://110.89.11.185:4022/rtp/239.61.5.99:1025
+http://27.151.179.74:4022/rtp/239.61.5.99:1025
 #EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/泉州新闻.png" group-title="卫视高清",泉州新闻
-http://110.89.11.185:4022/rtp/239.61.5.98:1025
+http://27.151.179.74:4022/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="平潭" tvg-name="平潭" tvg-logo="https://www.yangfeiyue.cn/tv/平潭.png" group-title="卫视高清",平潭
-http://110.89.11.185:4022/rtp/239.61.5.117:1025
+http://27.151.179.74:4022/rtp/239.61.5.117:1025
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
-http://110.89.11.185:4022/rtp/239.61.5.45:1025
+http://27.151.179.74:4022/rtp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://www.yangfeiyue.cn/tv/福建电视剧.png" group-title="卫视高清",福建电视剧
 http://59.56.215.8:8000/rtp/239.61.4.5:1025
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://www.yangfeiyue.cn/tv/福建新闻.png" group-title="卫视高清",福建新闻
