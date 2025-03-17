@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="辽宁"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Liaoning" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJMaWFvbmluZyIgJiYgb3JnPSJDSElOQSBVTklDT00gQ2hpbmExNjkgQmFja2JvbmUiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.us.kg/Liaoning_liantong.txt"$url_fofa
+        url_fofa="https://ji.yangfeiyue.ip-ddns.com/Liaoning_liantong.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
