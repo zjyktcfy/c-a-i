@@ -42,7 +42,7 @@ case $city_choice in
         channel_key="陕西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shaanxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFhbnhpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://fu.yangfeiyue.ip-ddns.com/Shaanxi_dianxin.txt"$url_fofa
+        url_fofa="https://fuu.yangfeiyue.dpdns.org/Shaanxi_dianxin.txt"$url_fofa
         ;;
     2)
         city="Liaoning_liantong"
@@ -50,7 +50,7 @@ case $city_choice in
         channel_key="辽宁"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Liaoning" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJMaWFvbmluZyIgJiYgb3JnPSJDSElOQSBVTklDT00gQ2hpbmExNjkgQmFja2JvbmUiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.ip-ddns.com/Liaoning_liantong.txt"$url_fofa
+        url_fofa="https://jii.yangfeiyue.dpdns.org/Liaoning_liantong.txt"$url_fofa
         ;;
     3)
         city="Guangdian"
@@ -58,7 +58,7 @@ case $city_choice in
         channel_key="广电"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && city="Guangdian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64="$url_fofa
-        url_fofa="https://fa.yangfeiyue.ip-ddns.com/Guangdian.txt"$url_fofa
+        url_fofa="https://faa.yangfeiyue.dpdns.org/Guangdian.txt"$url_fofa
         ;;
     4)
         city="Guangxi_dianxin"
@@ -66,7 +66,7 @@ case $city_choice in
         channel_key="广西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Guangxi Zhuangzu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJHdWFuZ3hpIFpodWFuZ3p1IiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.ip-ddns.com/Guangxi_dianxin.txt"$url_fofa
+        url_fofa="https://jii.yangfeiyue.dpdns.org/Guangxi_dianxin.txt"$url_fofa
         ;;
     5)
         city="Fujian_dianxin"
@@ -74,7 +74,7 @@ case $city_choice in
         channel_key="福建"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Fujian" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJGdWppYW4iICYmIG9yZz0iQ2hpbmFuZXQiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://ji.yangfeiyue.ip-ddns.com/Fujian_dianxin.txt"$url_fofa
+        url_fofa="https://jii.yangfeiyue.dpdns.org/Fujian_dianxin.txt"$url_fofa
         ;;
     6)
         city="Shanxi_liantong"
@@ -82,7 +82,7 @@ case $city_choice in
         channel_key="山西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shanxi" && org="CHINA UNICOM China169 Backbone" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFueGkiICYmIG9yZz0iQ0hJTkEgVU5JQ09NIENoaW5hMTY5IEJhY2tib25lIiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://fu.yangfeiyue.ip-ddns.com/Shanxi_liantong.txt"$url_fofa
+        url_fofa="https://fuu.yangfeiyue.dpdns.org/Shanxi_liantong.txt"$url_fofa
         ;;
     7)
         city="Sichuan_dianxin"
@@ -90,7 +90,7 @@ case $city_choice in
         channel_key="四川"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && city="Chengdu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgY2l0eT0iQ2hlbmdkdSIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi&page_size=20"$url_fofa
-        url_fofa="https://fu.yangfeiyue.ip-ddns.com/Sichuan_dianxin.txt"$url_fofa
+        url_fofa="https://fuu.yangfeiyue.dpdns.org/Sichuan_dianxin.txt"$url_fofa
         ;;
     8)
         city="Sichuan_yidong"
@@ -98,7 +98,7 @@ case $city_choice in
         channel_key="四川"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Sichuan" && org="China Mobile Communications Group Co., Ltd." && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaWNodWFuIiAmJiBvcmc9IkNoaW5hIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBHcm91cCBDby4sIEx0ZC4iICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://li.yangfeiyue.ip-ddns.com/Sichuan_yidong.txt"$url_fofa
+        url_fofa="https://lii.yangfeiyue.dpdns.org/Sichuan_yidong.txt"$url_fofa
         ;;
     9)
         city="Jiangxi_dianxin"
@@ -106,7 +106,7 @@ case $city_choice in
         channel_key="江西"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Jiangxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJKaWFuZ3hpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://li.yangfeiyue.ip-ddns.com/Jiangxi_dianxin.txt"$url_fofa
+        url_fofa="https://lii.yangfeiyue.dpdns.org/Jiangxi_dianxin.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
